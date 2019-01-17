@@ -1,11 +1,10 @@
-[![NPM](https://nodei.co/npm/react-native-steps-wizard.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/react-native-steps-wizard/)
+
 
 # react-native-steps-wizard
 A react-native implementation of steps bar wizard indicator
 
 ### Installation
  ```npm
- npm install react-native-steps-wizard 
  ```
 ### Usage
  ```javascript
