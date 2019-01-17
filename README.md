@@ -65,4 +65,4 @@ class Example extends Component {
 | currentStepLabelColor | String  | ![#2E81D3](https://placehold.it/15/2E81D3/000000?text=+) `#2E81D3`  |
 
 
-<img src="https://raw.githubusercontent.com/Roliver-Javier/react-native-stepbar/master/GIF_1547566267351.gif" width="250" height="400">
+<img src="https://raw.githubusercontent.com/Roliver-Javier/react-native-steps-wizard/master/flayer.gif" width="250" height="400">
