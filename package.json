@@ -1,0 +1,48 @@
+{
+  "name": "react-native-steps-wizard",
+  "version": "1.0.2",
+  "description":"A react-native implementation of steps bar wizard",
+  "main":"src/index.js",
+  "author":"Roliver Javier Rodriguez",
+  "private": false,
+  "license": "MIT",
+  "keywords":[
+    "react",
+    "native",
+    "wizard",
+    "steps",
+    "stepbar",
+    "react-native",
+    "react-component",
+    "step-indicator",
+    "viewpager",
+    "scrollview",
+    "listview",
+    "android",
+    "ios"
+  ],
+  "scripts": {
+    "start": "node node_modules/react-native/local-cli/cli.js start",
+    "test": "jest"
+  },
+  "dependencies": {
+    "react": "16.6.3",
+    "react-native": "0.57.8",
+    "react-native-gesture-handler": "^1.0.12",
+    "react-redux": "^6.0.0",
+    "redux": "^4.0.1"
+  },
+  "repository":{
+    "type":"git",
+    "url":"https://github.com/Roliver-Javier/react-native-steps-wizard"
+  },
+  "devDependencies": {
+    "babel-jest": "23.6.0",
+    "jest": "23.6.0",
+    "metro-react-native-babel-preset": "0.51.1",
+    "react-test-renderer": "16.6.3"
+  },
+  "jest": {
+    "preset": "react-native"
+  }
+}

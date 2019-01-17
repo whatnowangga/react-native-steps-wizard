@@ -1,0 +1,1 @@
+export const STEP_INDEX_CHANGED = 'step_index_changed';
