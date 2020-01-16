@@ -5,6 +5,7 @@ A react-native implementation of steps bar wizard indicator
 
 ### Installation
  ```npm
+ npm i react-native-steps-wizard
  ```
 ### Usage
  ```javascript
