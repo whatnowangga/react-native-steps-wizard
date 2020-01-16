@@ -8,7 +8,7 @@ class Steps extends Component {
 	render() {
 		return (
 		<Provider store={createStore(reducers)}>
-			<StepWrap />
+			<StepWrap steps={this.props.steps} />
 		</Provider>
 		);
 	}
