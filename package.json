@@ -1,6 +1,6 @@
 {
   "name": "react-native-steps-wizard",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description":"A react-native implementation of steps bar wizard",
   "main":"src/index.js",
   "author":"Roliver Javier Rodriguez",
